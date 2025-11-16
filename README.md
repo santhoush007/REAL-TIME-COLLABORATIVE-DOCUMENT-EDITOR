@@ -84,6 +84,7 @@ Data entry tasks or documentation handled by multiple people simultaneously.
 - `REACT_APP_SERVER_URL` - Backend server URL
 
 ## output:
+<img width="1919" height="908" alt="Image" src="https://github.com/user-attachments/assets/edb72fdc-a5e0-49c9-b5fd-d1d0e09b275d" />
 
 ---
 
