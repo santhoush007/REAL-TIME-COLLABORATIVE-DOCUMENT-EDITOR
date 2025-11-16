@@ -70,7 +70,7 @@ Instructors can demonstrate editing concepts while students follow live.
 Data entry tasks or documentation handled by multiple people simultaneously.
 
 ## Architecture overview:
-
+<img width="1038" height="607" alt="Image" src="https://github.com/user-attachments/assets/7c63bff5-8013-4822-8a10-725ec12b6025" />
 
 ## Environment Variables
 
