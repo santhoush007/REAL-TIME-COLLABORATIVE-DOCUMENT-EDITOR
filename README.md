@@ -1,3 +1,17 @@
+COMPANY NAME : CODETECH IT SOLUTION
+
+NAME : Santhoush S
+
+INTERN ID : CT06DR265
+
+DOMAIN : Full Stack Web Development
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+## TASK 3
+
 # Real-Time Collaborative Document Editor
 
 The Real-Time Collaborative Document Editor is a web-based application that allows multiple users to edit the same document at the same time with instant synchronization. Designed similar to Google Docs, the system uses real-time communication technology to ensure that every change made by a user is immediately reflected for all other users connected to the same document.
