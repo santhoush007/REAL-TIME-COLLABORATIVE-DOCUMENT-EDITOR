@@ -83,6 +83,8 @@ Data entry tasks or documentation handled by multiple people simultaneously.
 ### Frontend (.env)
 - `REACT_APP_SERVER_URL` - Backend server URL
 
+## output:
+
 ---
 
 **Built with ❤️ for collaborative editing**
